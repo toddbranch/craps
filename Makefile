@@ -1,4 +1,4 @@
 CFLAGS=-Wall -g
 
 all:
-	gcc test.c dice.c -o test
+	gcc payouts.c test.c dice.c -o test
